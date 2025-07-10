@@ -8,6 +8,13 @@
       "when": 1752089787500,
       "tag": "0000_woozy_namorita",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752151253915,
+      "tag": "0001_slimy_vulcan",
+      "breakpoints": true
     }
   ]
 }
