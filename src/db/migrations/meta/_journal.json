@@ -15,6 +15,13 @@
       "when": 1752151253915,
       "tag": "0001_slimy_vulcan",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753211734851,
+      "tag": "0002_far_talon",
+      "breakpoints": true
     }
   ]
 }
